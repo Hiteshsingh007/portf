@@ -10,8 +10,7 @@ An open-source, user-friendly, responsive and accessible portfolio template for 
 
 1. [Features](#key-features)
 1. [Customization](#customizing-the-template)
-1. [Deploying the Site](#deploying-the-site)
-
+2. 
 ## Features
 
 - Fully Mobile responsive.
@@ -23,7 +22,6 @@ An open-source, user-friendly, responsive and accessible portfolio template for 
 - Fast loads.
 - SEO-optimized.
 
-<img src="assets/images/lighthouse.png" alt="lighthouse report with 100% scores">
 
 ## Customizing the Template
 
@@ -66,4 +64,7 @@ You will find a file named `index.html` open it and follow the guidance inscribe
 ```
 
 **Note:** While editing the template make sure you have updated all `href`, img `src` and `alt` attributes of links and images.
+
+
+credit- Syed
 
