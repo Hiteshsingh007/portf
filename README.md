@@ -2,13 +2,9 @@
 
 An open-source, user-friendly, responsive and accessible portfolio template for developers 🚀⚡
 
-Give star ⭐ if you find it useful. [Visit site &rarr;](https://opensource-portfolio.netlify.app/)
 
 ![Portfolio Template Gif](assets/images/portfolio-template.gif)
 
-## Useful resources
-
-Make sure to subscribe to our [youtube channel](https://www.youtube.com/@nisarhassan12) channel where we cover creating template like this from scratch using HTML, CSS and JavaScript and also don't forget to star 🌟 the [css-tips-tricks](https://github.com/devsyedmohsin/css-tips-tricks) that has already reached 180+ stars.
 
 ## Table of Contents
 
@@ -45,7 +41,7 @@ If you have [Git](https://git-scm.com/) installed on your computer, you can simp
 git clone https://github.com/devsyedmohsin/portfolio-template
 ```
 
-Alternatively, click on this [link](https://github.com/devsyedmohsin/portfolio-template/archive/refs/heads/main.zip) to download it.
+
 
 ### Editing the Template
 
@@ -71,10 +67,3 @@ You will find a file named `index.html` open it and follow the guidance inscribe
 
 **Note:** While editing the template make sure you have updated all `href`, img `src` and `alt` attributes of links and images.
 
-### Deploying the Site
-
-Watch [this youtube video](https://www.youtube.com/watch?v=oEyXLYW3RjY) to learn how to deploy your version of the portfolio-template to the web.
-
-[![Deploy your version of the Portfolio template using Netlify](assets/images/thumbnail.png)](https://www.youtube.com/watch?v=oEyXLYW3RjY "Deploy your version of the Portfolio template using Netlify")
-
-### Contributions are warmly welcomed ❤️.
